@@ -1,3 +1,3 @@
 # excel_dataScienceSalary_project
 
-![Dashboard GIF demo](dashboard_demo)
+![Dashboard GIF demo](excel_dataScienceSalary_project/dashboard_demo.gif)
